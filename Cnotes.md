@@ -45,4 +45,12 @@ else
 {
     printf("x is not less than y\n");
 }
+```
 
+```C
+#include <stdio.h>
+
+int main(void)
+{
+     printf("hello, world\n");
+}
